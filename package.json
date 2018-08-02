@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "clase tdd y ambiente de desarrollo"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
   }
 }
